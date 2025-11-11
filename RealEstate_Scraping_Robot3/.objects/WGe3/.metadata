@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Zillow Real Estate, Apartments, Mortgages & Home Values",
+  "Type": "App",
+  "Id": "WGe3fVpDDEyLH5F3stu70g",
+  "Reference": "s84b316raEuLc4zif7J1DA/WGe3fVpDDEyLH5F3stu70g",
+  "Created": "2025-10-28T07:57:59.0545538Z",
+  "Updated": "2025-10-28T07:57:59.0545538Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

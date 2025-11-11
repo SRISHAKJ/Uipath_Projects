@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "Enakk_cjBU--tuYMciENUA",
+  "Reference": "0mse7ezE_UOEa0oIpfus_g/Enakk_cjBU--tuYMciENUA",
+  "ParentRef": "0mse7ezE_UOEa0oIpfus_g/2dXjSq3lq0GMRZAOSjw4ww",
+  "Created": "2025-10-24T13:59:14.0050568Z",
+  "Updated": "2025-10-24T13:59:14.0050568Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

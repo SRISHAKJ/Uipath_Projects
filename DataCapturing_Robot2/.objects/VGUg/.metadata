@@ -1,0 +1,12 @@
+﻿{
+  "Name": "RPA Complete Bootcamp  Sample Desktop App",
+  "Type": "App",
+  "Id": "VGUg1zI73EuRKSZZCYh-bQ",
+  "Reference": "0mse7ezE_UOEa0oIpfus_g/VGUg1zI73EuRKSZZCYh-bQ",
+  "Created": "2025-10-27T09:34:58.5037686Z",
+  "Updated": "2025-10-27T09:34:58.5037686Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

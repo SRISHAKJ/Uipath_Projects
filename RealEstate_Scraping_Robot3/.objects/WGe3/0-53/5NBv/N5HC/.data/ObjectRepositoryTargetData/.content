@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zv-hOxrI7kKBBVWdzkrzGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com" CVScreenId="79776851-3eae-4f6c-8792-51a2b924d228" CvTextArea="249, 614, 469, 18" CvTextArgument="Enter an address, neighborhood, city, or ZIP code" CvType="Text" DesignTimeRectangle="230, 645, 527, 90" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='StyledFormControl-c11n-8-111-2__sc-w61kvv-0 cAbjTM Input-c11n-8-111-2__sc-4ry0fw-0 hQEDWz' placeholder='Enter an address, neighborhood, city, or ZIP code' aaname='clear search text buttonSubmit Search' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="1585fac6-02d4-425b-b336-df5f2ff2274e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Zillow: Real Estate, Apartments, Mortgages &amp;amp; Home Values' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="757, 645, 96, 90" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='StyledAdornment-c11n-8-111-2__sc-1h2m3pa-0 AdornmentRight-c11n-8-111-2__sc-46k37c-0 kPfRzd iOWsVk SearchBoxInput__StyledSearchBoxAdornment-sxp-sb-8-111-2__sc-1hknwe6-0 jnXAcO' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Submit Search' /&gt;" Guid="a4eb25ff-f8c9-44bb-849a-b4567eac39fd" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb03668e3b91c2ec71b3f9404033d5d5.png" xmlns="">0Eju7KLK7c02V8EZt7vN5fw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

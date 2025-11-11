@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uixcCUVf90ePXwgbjFEt6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/homes" CVScreenId="c2f282f7-b0ee-45d7-a84e-3ce952dd81d7" CvTextArea="1374, 392, 103, 17" CvTextArgument="Deselect All" CvType="Text" DesignTimeRectangle="1335, 387, 142, 30" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' /&gt;" Guid="2957fb73-9a21-4ebb-9b3e-c68d892ad229" ScopeSelectorArgument="&lt;html app='chrome.exe' title='New York NY Real Estate - New York NY Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bc50786f6f6ce808928821b5fd422f4e.png" xmlns="">0-6ViwJ_AaU-i4BNuWTGg1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

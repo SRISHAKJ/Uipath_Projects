@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XbBBXwoIZU-KC9_AFdKp1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="37b0ccee-3543-442e-9958-27a5667a6142" CvElementArea="1544, 353, 254, 47" CvType="InputBox" DesignTimeRectangle="1547, 356, 249, 43" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='email' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='email' class='bubble-element Input a1761468333023x1700' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="f9253b72-1787-4c59-a5c5-15d85d1ba176" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="37b0ccee-3543-442e-9958-27a5667a6142" CvTextArea="1439, 364, 81, 18" CvTextArgument="Personal:" CvType="Text" DesignTimeRectangle="1439, 359, 108, 28" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Personal:' class='content' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Personal:' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Personal:' /&gt;" Guid="fecc6ea9-1ec8-48f3-b8c8-ffdf6e21a438" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="086734725f1abb22b45c7ef5cfb3b941.png" xmlns="">0k9xCe9BhxEu9AXKZD5suxg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

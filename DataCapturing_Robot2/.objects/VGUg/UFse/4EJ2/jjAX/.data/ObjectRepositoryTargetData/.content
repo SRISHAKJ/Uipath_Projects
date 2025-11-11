@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h1RcYnxfdkuU_qo1Ypu1TQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ad8c3865-7ab5-401c-9bdc-8c5d410c7bb3" CvElementArea="441, 590, 123, 47" CvTextArea="485, 605, 32, 15" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="442, 591, 123, 46" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='button1' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='button1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' check:text='Save' /&gt;" Guid="d243d325-665e-4fbf-bd7f-9395ebb28fef" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="aceaed259b850d445fe6e0b6d1afde4e.png" xmlns="">0eug10PExI06VxoYsnu3LbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

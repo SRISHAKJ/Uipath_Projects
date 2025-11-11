@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Deselect All",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "IIAsUh95dU-ZIsQWWW40nA",
+  "Reference": "s84b316raEuLc4zif7J1DA/IIAsUh95dU-ZIsQWWW40nA",
+  "ParentRef": "s84b316raEuLc4zif7J1DA/5NBvGd9-QUO6mOLpcAFnng",
+  "Created": "2025-10-28T10:14:34.487181Z",
+  "Updated": "2025-10-28T10:14:34.487181Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

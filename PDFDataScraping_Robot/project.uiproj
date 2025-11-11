@@ -1,0 +1,6 @@
+{
+  "Name": "PDFDataScraping_Robot",
+  "ProjectType": "Process",
+  "Description": "Scrape data from 1000 PDF invoices",
+  "MainFile": "Main.xaml"
+}

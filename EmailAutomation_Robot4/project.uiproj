@@ -1,0 +1,6 @@
+{
+  "Name": "EmailAutomation_Robot",
+  "ProjectType": "Process",
+  "Description": "Learning email operations.",
+  "MainFile": "Main.xaml"
+}

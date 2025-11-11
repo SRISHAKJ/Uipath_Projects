@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Female",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VX-mM-_MI0mwbN8s21qyQQ",
+  "Reference": "0mse7ezE_UOEa0oIpfus_g/VX-mM-_MI0mwbN8s21qyQQ",
+  "ParentRef": "0mse7ezE_UOEa0oIpfus_g/Q2SyfFIfP0Kr5dH7gW4OOw",
+  "Created": "2025-10-26T07:49:04.2223066Z",
+  "Updated": "2025-10-26T07:49:04.2223066Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

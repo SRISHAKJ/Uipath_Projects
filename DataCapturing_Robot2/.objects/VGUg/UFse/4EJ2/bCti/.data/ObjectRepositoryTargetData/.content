@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sVwAkKxy50aluSM6ahiQ3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="019940fa-894b-4366-8aab-8cb9fbe1341a" CvElementArea="249, 521, 228, 26" CvType="InputBox" DesignTimeRectangle="251, 522, 225, 25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='panel4' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='textBox8' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="f4cddb6c-ebbb-445c-9f5f-39c064c32c51" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="019940fa-894b-4366-8aab-8cb9fbe1341a" CvTextArea="145, 526, 96, 13" CvTextArgument="Personal Email :" CvType="Text" DesignTimeRectangle="143, 526, 103, 16" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='panel4' /&gt;&lt;wnd ctrlname='label11' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel4' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='label11' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' check:text='Personal Email :' /&gt;" Guid="2f7ac61f-4d39-4621-9704-1b7aa1bf4e94" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6a0fa629dd00a1c125ef6a1f38f5f9e9.png" xmlns="">0wmBlFb0l9UKQc4Xtsg7ISQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

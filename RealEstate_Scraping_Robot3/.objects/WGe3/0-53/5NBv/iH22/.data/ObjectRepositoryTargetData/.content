@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SNSBVeJgzEWYdgWNbusZYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/new-york-ny" CVScreenId="a20bd057-ed48-41d3-a47c-3c8d34e31009" CvElementArea="1335, 450, 29, 29" CvTextArea="1372, 452, 70, 17" CvTextArgument="Houses" CvType="CheckBox" DesignTimeRectangle="1338, 447, 217, 42" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;div' tag='DIV' /&gt;" Guid="5a97ae13-28b3-4a17-9eb5-b816bdb96a11" ScopeSelectorArgument="&lt;html app='chrome.exe' title='New York NY Real Estate - New York NY Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="abed465010f37a2547e9fb2771146a95.png" xmlns="">0YYwv658pwkC6kr8pHd5BRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="woBjtZfswE2ARsvqiGe8pQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="019940fa-894b-4366-8aab-8cb9fbe1341a" CvElementArea="660, 521, 228, 26" CvType="InputBox" DesignTimeRectangle="663, 522, 225, 25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='panel4' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='textBox7' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="e14f679f-6169-4b29-9bc7-c3b8054d76e3" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="019940fa-894b-4366-8aab-8cb9fbe1341a" CvTextArea="566, 526, 76, 13" CvTextArgument="Work Emaill :" CvType="Text" DesignTimeRectangle="565, 526, 84, 16" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='panel4' /&gt;&lt;wnd ctrlname='label10' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel4' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='label10' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' check:text='Work Email :' /&gt;" Guid="c34b9060-1838-419b-a40d-7a7146368bd3" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e5f32395187a3a98c7cb9e3f8bdb4e48.png" xmlns="">0Y7RiyH0jh0u7A0tez4eWVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

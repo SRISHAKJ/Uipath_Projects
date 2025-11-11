@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ydoPAyuT9kW8gxf7h9wNqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/new-york-ny" CVScreenId="a06cd61f-4465-45c3-b300-fb4c1cacf0a6" CvElementArea="1335, 450, 29, 29" CvType="CheckBox" DesignTimeRectangle="1338, 452, 25, 25" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='home-type_isSingleFamily' tag='INPUT' type='checkbox' class='StyledFormControl-c11n-8-109-3__sc-w61kvv-0 iVoxNw StyledCheckbox-c11n-8-109-3__sc-13jdanj-0 vmLum StyledFilterCheckbox__StyledCheckbox-srp-8-109-3__sc-aeuain-1 cNgYDk' aaname='Houses ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="c3f4c85a-5cab-4723-8165-b738704be65e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='New York NY Real Estate - New York NY Homes For Sale | Zillow' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a06cd61f-4465-45c3-b300-fb4c1cacf0a6" CvTextArea="1372, 452, 70, 17" CvTextArgument="Houses" CvType="Text" DesignTimeRectangle="1363, 447, 84, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Houses ' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Houses ' tag='LABEL' type='' class='StyledLabel-c11n-8-109-3__sc-14wqmdp-0 jmZqPk short-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Houses' /&gt;" Guid="97397431-53c9-4bfc-b21f-f1717d06a70e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7a05c91ee203ba2f686010a8de989fdb.png" xmlns="">01POsmibh70SF9qqVWPeZkw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,6 @@
+{
+  "Name": "OpticalCharacterRecognition_Robot",
+  "ProjectType": "Process",
+  "Description": "Scrapes text from scanned receipts",
+  "MainFile": "Main.xaml"
+}

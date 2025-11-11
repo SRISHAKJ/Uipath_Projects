@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FgDJABunwkOr3wD4si1teA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="30562a65-5fe8-47eb-89ef-fc4a8df53ff6" DesignTimeRectangle="1547, 409, 249, 42" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tabindex='13' tag='INPUT' type='email' /&gt;" Guid="778496ce-3a51-4532-8bf8-675bebd9ff39" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="30562a65-5fe8-47eb-89ef-fc4a8df53ff6" DesignTimeRectangle="1439, 409, 108, 28" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Work:' class='content' idx='2' tag='DIV' /&gt;" Guid="ee79f86f-aa1d-416d-8ba6-0415adcdd031" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="49befb037a68fe61c9f6f8dfb8ff1197.png" xmlns="">06fZI0ppRskmyVL7fPFAeww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

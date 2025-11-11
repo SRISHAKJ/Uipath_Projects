@@ -1,0 +1,6 @@
+{
+  "Name": "DataCapturing_Robot",
+  "ProjectType": "Process",
+  "Description": "Captures data into web and desktop application, simultaneously.",
+  "MainFile": "Main.xaml"
+}

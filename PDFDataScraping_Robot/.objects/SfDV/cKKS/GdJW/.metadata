@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Invoice 1.pdf - Adobe Acrobat Reader (64-bit)",
+  "Type": "Screen",
+  "Id": "GdJW2udv-0u-pMrgLsflGg",
+  "Reference": "xJho3yno40KxA7EcTkyAiQ/GdJW2udv-0u-pMrgLsflGg",
+  "ParentRef": "xJho3yno40KxA7EcTkyAiQ/cKKSYdgY8U-l74mEjxXlpw",
+  "Created": "2025-11-04T06:38:07.9577242Z",
+  "Updated": "2025-11-04T06:38:07.9577242Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

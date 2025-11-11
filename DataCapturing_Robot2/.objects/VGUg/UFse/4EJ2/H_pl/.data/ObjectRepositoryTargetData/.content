@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sHB8W1tDqE2Jq3w8L4zEXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1a10b968-821c-4bc0-be36-4cefdc8c53b2" CvElementArea="249, 426, 228, 27" CvType="InputBox" DesignTimeRectangle="251, 427, 225, 25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='panel3' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='textBox5' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="ec612efd-9942-4d54-883b-3db40a5b2e5b" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1a10b968-821c-4bc0-be36-4cefdc8c53b2" CvTextArea="145, 431, 85, 13" CvTextArgument="Home Phone :" CvType="Text" DesignTimeRectangle="143, 431, 94, 16" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='panel3' /&gt;&lt;wnd ctrlname='label8' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel3' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='label8' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' check:text='Home Phone :' /&gt;" Guid="3934eeff-39b9-48ed-9d00-23937912fbea" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a4e3e1e5e9ce8e8645646463b33befda.png" xmlns="">03Q5MpYp-R0uQQ4_jtE79FA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

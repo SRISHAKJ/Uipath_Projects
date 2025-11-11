@@ -1,0 +1,6 @@
+{
+  "Name": "RealEstate_Scraping",
+  "ProjectType": "Process",
+  "Description": "Scraps Real estate data listings from Zillow.com",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uwLZVzoc4E6jD0dQy_Sr1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7b75740d-99f6-4733-971c-b5aa05a5d40c" CvType="AnyWordGroup" DesignTimeRectangle="1308, 257, 55, 12" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd aaname='Document Pane' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl idx='3' role='row' /&gt;&lt;ctrl name='*/*/*' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Document Pane' cls='AVL_AVView' title='AVScrolledPageView' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='text' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="f4937edc-bed4-468b-8815-9fd2fb72e780" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='Invoice 1.pdf - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7b75740d-99f6-4733-971c-b5aa05a5d40c" CvTextArea="1306, 239, 28, 12" CvTextArgument="Date" CvType="Text" DesignTimeRectangle="1308, 240, 27, 13" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='Document Pane' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl idx='2' role='row' /&gt;&lt;ctrl name='Date  ' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Document Pane' cls='AVL_AVView' title='AVScrolledPageView' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Date  ' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Date' /&gt;" Guid="921c42b5-cea4-4f8c-860b-6114bb7914e2" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a1a8dfd7d8903afe06f9e51f94407c87.png" xmlns="">0ilvw6ctPgEeypMqUA6n4pg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
